@@ -76,12 +76,12 @@ Before running the project, ensure that you have **Node.js** and **npm** install
 1. Clone the repo
    
 sh
-   git clone https://github.com/tracysuzanne321/My-Music
+   git clone https://github.com/AdityaMISHRA2803/Music-Player.git
 
 2. Install NPM packages
    
 sh
-   npm install
+   -npm install
 
 ## License
 
