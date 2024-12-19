@@ -14,8 +14,8 @@
     <br />
     <a href="https://github.com/AdityaMISHRA2803/Music-Player.git"><strong>Explore the code on GitHub</strong></a>
     <br />
-    <br />
-    <a href="https://mymusic-uk.netlify.app/">View Demo</a>
+    
+    
     ·
     <a href="https://github.com/AdityaMISHRA2803/Music-Player.git/issues">Report Bug</a>
     ·
