@@ -16,11 +16,7 @@
     <br />
     
     
-    ·
-    <a href="https://github.com/AdityaMISHRA2803/Music-Player.git/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/AdityaMISHRA2803/Music-Player.git/issues">Request Feature</a>
-  </p>
+    
 </div>
 
 <!-- TABLE OF CONTENTS -->
